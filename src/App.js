@@ -5,7 +5,7 @@ import { DotsThree, Play, UsersThree, House, MagnifyingGlass,Books, ArrowRight, 
 
 export default function App() {
   return (
-    <div className="bg-gradient-to-b from-yellow-400/70 from-10% via-zinc-900 via-30% to-zinc-900 to-100% text-zinc-50 h-screen flex flex-col">
+    <div className="bg-gradient-to-b from-red-700 from-10% via-zinc-900 via-30% to-zinc-900 to-100% text-zinc-50 h-screen flex flex-col">
       <div className="flex flex-1 overflow-hidden">
         <aside className="w-96 bg-zinc-950 p-6">
           <a href=""> <DotsThree size={28}/></a>
